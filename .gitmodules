@@ -1,0 +1,3 @@
+[submodule "testRemoteVSC"]
+	path = testRemoteVSC
+	url = git@github.com:Snowing-J/testRemoteVSC.git
