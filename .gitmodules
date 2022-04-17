@@ -1,6 +1,8 @@
 [submodule "testRemoteVSC"]
 	path = testRemoteVSC
 	url = git@github.com:Snowing-J/testRemoteVSC.git
+	branch = master
 [submodule "hub"]
 	path = hub
 	url = git@github.com:Snowing-J/C-_Study.git
+	branch = main
